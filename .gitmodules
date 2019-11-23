@@ -1,0 +1,12 @@
+[submodule "hamonikr-apphamonia"]
+	path = hamonikr-apphamonia
+	url = https://github.com/hamonikr/hamonikr-apphamonia.git
+[submodule "hamonikr-support"]
+	path = hamonikr-support
+	url = https://github.com/hamonikr/hamonikr-support.git
+[submodule "hamonikr-finder"]
+	path = hamonikr-finder
+	url = https://github.com/hamonikr/hamonikr-finder.git
+[submodule "hamonikr-ldapconn"]
+	path = hamonikr-ldapconn
+	url = https://github.com/hamonikr/hamonikr-ldapconn.git
